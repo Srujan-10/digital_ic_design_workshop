@@ -66,5 +66,5 @@ a=0;b=0;
 end
 endmodule
 ```
-
+EDAplayground link for half adder: [Half adder using gates](https://www.edaplayground.com/x/8rjq)
 
