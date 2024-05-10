@@ -25,5 +25,14 @@ such as and, nand, or, nor, xor, xnor, not, buf, notif0, notif1, bufif0, bufif1.
 
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/f26f9e3d-3ba6-4e01-9668-d4a65eec3619)
 
+<br>The truth-table of Half adder<br>
+
+|a|b|sum|co|
+|-|-|---|--|
+|0|0|0|0|
+|0|1|1|0|
+|1|0|1|0|
+|1|1|0|1|
+
 
 
