@@ -20,7 +20,9 @@ This repository is to present my learning of digital ic  design based on FPGA an
 such as and, nand, or, nor, xor, xnor, not, buf, notif0, notif1, bufif0, bufif1. Among these primitives some are single output and multiple input gates and some are multiple output single input gates</p>
 
 -- Examples using Gate level modelling
+
 1. Half adder
+
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/f26f9e3d-3ba6-4e01-9668-d4a65eec3619)
 
 
