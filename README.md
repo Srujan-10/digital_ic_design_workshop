@@ -1,6 +1,8 @@
 # digital_ic_design_workshop
 This repository is to present my learning of digital ic  design based on FPGA and ASIC. 
 
+[My week1 activities](https://github.com/ASHREDD/digital_ic_design_workshop/tree/main/Week-1%20Activities)
+
 ### WEEK 1 ACTIVITIES: Learning Verilog HDL
 -- Language fundamentals
 -- Types of modelling
