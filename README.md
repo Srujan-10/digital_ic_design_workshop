@@ -34,5 +34,37 @@ such as and, nand, or, nor, xor, xnor, not, buf, notif0, notif1, bufif0, bufif1.
 |1|0|1|0|
 |1|1|0|1|
 
+```
+// Design file ha.v
+
+module ha(a,b,sum,co);
+input a,b;
+output sum,co;
+
+and(co,a,b);
+xor(sum,a,b);
+
+endmodule
+
+//Testbench
+
+`timescale 1ns/1ps
+module tb_ha;
+
+reg a,b;
+wire sum,co;
+
+ha  dut(a,b,sum,co);
+
+initial
+begin
+a=0;b=0;
+#5 b=1;
+#5 a=1; b=0;
+#5 b=1;
+#5 $stop;   //$stop is a system task which stops the ongoing simulation
+end
+endmodule
+```
 
 
