@@ -74,7 +74,8 @@ b=1;
 #10
 a=1;b=0;
 #10
-b=1;$ stop //$stop is system task
+b=1;
+# $ stop //$stop is system task
 end
 endmodule
 
