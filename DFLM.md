@@ -64,7 +64,10 @@ module tb_half_dfm;
 reg a,b;
 wire sum1,cy;
 halfadder_dfm halfadder_dfm1(sum1,cy,a,b);
-initial begin
+initial
+ begin
+$display("a b sum1 cy");
+$monitor(a," ",b," ",sum1," ",cy);
 a=0;b=0;
 #10
 b=1;
