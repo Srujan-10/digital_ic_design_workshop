@@ -1,5 +1,5 @@
 # Ripple_carry_adder
-This repository is to show my basic undestanding of  4-bit ripple carry adder using 1-bit full adder through structural modelling.
+In this I will demonstrate my basic undestanding of  4-bit ripple carry adder using 1-bit full adder through structural modelling.
 
 # DESCRIPTION:Ripple carry adder
 <p allign="justify">In a four bit ripple carry adder there are four 1-bit full adders.
