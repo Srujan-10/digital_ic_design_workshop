@@ -8,7 +8,7 @@ In this I will demonstrate my basic undestanding of  4-bit ripple carry adder us
 
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/993166c7-9aa5-479c-93a0-1ede211f61db)
 
-<br>Truth Table of ripple carry adder<br>
+<br>Truth Table of ripple carry adder with few combinations<br>
 
 |A3|A2|A1|A0|B3|B2|B1|B0|S3|S2|S1|S0|Carry|
 |--|--|--|--|--|--|--|--|--|--|--|--|-----|
