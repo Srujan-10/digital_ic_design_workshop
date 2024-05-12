@@ -19,10 +19,12 @@ This repository is to present my learning of digital ic  design based on FPGA an
 ---Example using switch level modelling 
 <br>Inverter<br>
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/caf0e82a-7a79-482f-92ca-5d2c57f3c510)
+
 |VIN|VOUT|
 |---|----|
 |1|0|
 |0|1|
+
 ```
 //DESIGN FILE
 module cmos_inverter2 (inv_out, inv_in);
@@ -32,6 +34,7 @@ not(inv_out,inv_in);
 endmodule
 
 ```
+
 
 ```
 //TEST BENCH
@@ -56,6 +59,7 @@ end
 endmodule
 
 ```
+
 BEHAVORIAL SIMULATION:
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/3d039c35-6070-4e4b-ada8-32a8b62d941f)
 
