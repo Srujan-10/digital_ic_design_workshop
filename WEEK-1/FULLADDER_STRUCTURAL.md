@@ -76,7 +76,8 @@ module tb_fa;
 endmodule
 ```
 ### Behavorial simulation
-![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/c8b887b9-d91d-4bee-88b8-5508d33bb6ac)
+![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/e4d6190b-1760-4bdb-86c4-7648da19bbb3)
+
 
 ### RTL SCHEMATIC
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/49449d86-e900-4ea6-94a7-b074731c39f0)
