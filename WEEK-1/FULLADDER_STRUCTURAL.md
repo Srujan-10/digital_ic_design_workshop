@@ -21,22 +21,20 @@ So the module instance include two half adder and an OR gate.<br>
 module fa(input a,b,c,
           output sum,co);
   
-  ha ins1(a,b,s1,c1);
+  ha ins1(a,b,s1,c1);//taking half adder as an instance
   ha ins2(s1,c,sum,c2);
-  orgate ins3(c1,c2,co);
-    
+  orgate ins3(c1,c2,co); //taking or gate as an instance  
   
 endmodule
 
 //half ader
 module ha(input a,b,
-          output sum,co);
-  
+          output sum,co);  
   assign sum=a^b,
          co=a&b;
-    
-  
 endmodule
+
+
 ///or gate
 module orgate(input a,b,
           output y);
@@ -69,7 +67,7 @@ module tb_fa;
           #5;
         end
       
-      #5 $stop;      
+      #5 $stop;   //here $stop is known as system task   
       
     end
   
