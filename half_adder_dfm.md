@@ -53,6 +53,8 @@ endmodule
 ### SYSNTHESIS:SCHEMATIC
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/24f6e6fa-684f-4aa7-a41b-c06ebffe82e0)
 
+##EDA PLAYGROUND LINK FOR HALF ADDER USING DATA_FLOW LEVEL MODELLING:(https://www.edaplayground.com/x/uBRk)
+
 
 
 
