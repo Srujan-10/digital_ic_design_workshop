@@ -1,3 +1,8 @@
+# Structural level modelling:
+<br>Structural level modelling refers to a design using module instances(especially low level building blocks like AND,OR,MUX,ADDER,FLIPFLOP).
+Structural modelling includes a module that instatiates other module  and verilog primitives(AND,OR,NAND,NOR,etc).<br>
+
+--Example:
 # Ripple_carry_adder
 In this I will demonstrate my basic understanding of  4-bit ripple carry adder using 1-bit full adder through structural modelling.
 
