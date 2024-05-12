@@ -73,7 +73,9 @@ SYNTHESIS SCHEMATIC:
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/24bdabf5-dcf9-487d-84ae-732f1b8e96c2)
 
 
-EDAPLAYGROUND LINK:() 
+EDAPLAYGROUND LINK:(https://www.edaplayground.com/x/LyRF) 
+
+
 
 
 -- Gate level modelling
