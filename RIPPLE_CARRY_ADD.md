@@ -1,4 +1,6 @@
 # Structural level modelling:
+In this I will demonstrate my understanding of structural level modelling with an example.
+
 <br>Structural level modelling refers to a design using module instances(especially low level building blocks like AND,OR,MUX,ADDER,FLIPFLOP).
 Structural modelling includes a module that instatiates other module  and verilog primitives(AND,OR,NAND,NOR,etc).<br>
 
