@@ -18,6 +18,7 @@ This repository is to present my learning of digital ic  design based on FPGA an
 <p allign="justify">In this we have switch level primitives such as nmos, pmos, for power supply we have keywords such as supply1,supply0. This modelling is used only for simulation purposes. This is not supported by the synthesizer tools.</p> 
 ---Example using switch level modelling 
 <br>Inverter<br>
+
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/caf0e82a-7a79-482f-92ca-5d2c57f3c510)
 
 |VIN|VOUT|
