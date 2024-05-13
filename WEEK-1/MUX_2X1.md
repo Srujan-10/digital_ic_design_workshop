@@ -52,4 +52,6 @@ endmodule
 ### SYNTHESIS SCHEMATIC
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/9442078f-0a0a-4906-8610-1ad2d1326f46)
 
-## EDAPLAYGROUND LINK:[GATE_LEVEL](https://www.edaplayground.com/x/X2sD)   [DATA_FLOW](https://www.edaplayground.com/x/R6Hy).
+## EDAPLAYGROUND LINK:
+[GATE_LEVEL link](https://www.edaplayground.com/x/X2sD)  
+[data_flow link]:(https://www.edaplayground.com/x/pm_B)
