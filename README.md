@@ -22,6 +22,6 @@
 
 3.Structural level modelling
 
-example:[Ripple carry adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/RIPPLE_CARRY_ADD.md).
+[example:Ripple carry adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/RIPPLE_CARRY_ADD.md).
 
-example:[Full adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/FULLADDER_STRUCTURAL.md).
+[example:Full adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/FULLADDER_STRUCTURAL.md).
