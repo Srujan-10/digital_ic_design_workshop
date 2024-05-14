@@ -18,8 +18,8 @@ Understanding the difference between these two types of assignments is crucial f
 
 1. Blocking Assignment (=):
    -- With blocking assignments, statements are executed sequentially, and each assignment is completed before moving on to the next statement in the block.
-   -- The right-hand side (RHS) expression is evaluated immediately, and the assignment is completed before proceeding to the next statement.
-   -- Blocking assignments are used when you want to model behavior where statements need to be executed in a specific order,and the result of 
+   The right-hand side (RHS) expression is evaluated immediately, and the assignment is completed before proceeding to the next statement.
+   Blocking assignments are used when you want to model behavior where statements need to be executed in a specific order,and the result of 
       each assignment is required before moving to the next statement.
 
 Example of blocking assignment:
