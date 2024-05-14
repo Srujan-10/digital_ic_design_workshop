@@ -12,9 +12,7 @@
 [example of switch level modelling:inverter](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/MODELLING_TYPES.md).
 
 
-2.Data flow level modelling
-
-(https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/DFLM%20(1).md).
+2.[Data flow level modelling](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/DFLM%20(1).md).
 
 [Example:1 of data flow level modelling:2x1 multiplexer](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/MUX_2X1.md).
 
