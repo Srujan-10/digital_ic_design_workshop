@@ -20,7 +20,7 @@
 
 
 
-3.[Structural level modelling]
+3.Structural level modelling:
 
 [example:Ripple carry adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/RIPPLE_CARRY_ADD.md).
 
