@@ -1,7 +1,7 @@
 ### WEEK-1 ACTIVITIES:
 1.Types of modelling:
 
-1.[switch level modelling and gate level modelling with examples]().
+1.[Switch level modelling and Gate level modelling with examples](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/MODELLING_TYPES.md).
 
 [example: 1 of gate level modelling:half_adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/MODELLING_TYPES.md)
 
