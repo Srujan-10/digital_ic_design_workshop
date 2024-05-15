@@ -26,5 +26,7 @@
 [example:Full adder](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/FULLADDER_STRUCTURAL.md).
 
 4.[Behavorial Modelling:](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/Behavorial_modelling.md)
-  [EXAMPLE.1 :4X1 MUX](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/4x1_mux_behavorial_modelling.md)
-  [EXAMPLE 2 :D-FLIP-FLOP](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/d-flipflop_behavorial_modelling.md)
+
+  [Example.1 :4X1 MUX](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/4x1_mux_behavorial_modelling.md)
+  
+  [Example 2 :D-FLIP-FLOP](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/d-flipflop_behavorial_modelling.md)
