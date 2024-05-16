@@ -27,9 +27,8 @@
 
 4.[Behavorial Modelling:](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/Behavorial_modelling.md)
 
-
   [Example.1 :4X1 MUX](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/4x1_mux_behavorial_modelling.md)
   
   [Example 2 :D-FLIP-FLOP](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/d-flipflop_behavorial_modelling.md)
 
-  [Example 3 :4:2 ENCODER]().
+  [Example 3 :4:2 ENCODER](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/Encoder_Behavorial_modelling.md).
