@@ -32,3 +32,5 @@
   [example 2 : D-FLIP-FLOP](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/d-flipflop_behavorial_modelling.md)
 
   [example 3 : 4:2 ENCODER](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/Encoder_Behavorial_modelling.md).
+
+  [example 4 : 8:3 ENCODER](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/8%3A3_encoder_behavorial.md).
