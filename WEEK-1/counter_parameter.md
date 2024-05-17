@@ -103,7 +103,7 @@ DOWN COUNTER
 
 ![image](https://github.com/ASHREDD/digital_ic_design_workshop/assets/168950588/96281011-fa4c-4c30-9080-e7445fc02c28)
 
-(EDAPLAYGROUNG LINK)[].
+(EDAPLAYGROUNG LINK)[https://www.edaplayground.com/x/Y8NN].
 
 
 
