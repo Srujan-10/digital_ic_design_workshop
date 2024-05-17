@@ -35,9 +35,9 @@
 
   [example 4 : 8:3 ENCODER](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/8%3A3_encoder_behavorial.md).
   
-  [example 5 :up_counter]()
+  [example 5 :up_counter](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/counter_parameter.md)
   
-  [example 6 : down_counter]()
+  [example 6 : down_counter](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/counter_parameter.md)
 
   [example 7 : Shift register]()
   
