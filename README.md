@@ -43,6 +43,7 @@
 
   ###  Week 2 Activities
   1.[FSM_introduction:](https://github.com/Srujan-10/digital_ic_design_workshop/blob/main/WEEK-2/1100_fsm_mealy.md).
+  
   2[1100_fsm_mealy_model:](https://github.com/Srujan-10/digital_ic_design_workshop/blob/main/WEEK-2/1100_fsm_mealy.md).
   
   
