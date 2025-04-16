@@ -41,6 +41,6 @@
 
   [example 7 : Shift register]()
 
-  ###Week 2 Activities 
+  ###  Week 2 Activities 
   
   
