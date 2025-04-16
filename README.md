@@ -40,4 +40,7 @@
   [example 6 : down_counter](https://github.com/ASHREDD/digital_ic_design_workshop/blob/main/WEEK-1/counter_parameter.md)
 
   [example 7 : Shift register]()
+
+  ###Week 2 Activities 
+  
   
